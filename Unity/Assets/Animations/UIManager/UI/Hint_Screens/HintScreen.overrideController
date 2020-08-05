@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HintScreen
+  m_Controller: {fileID: 9100000, guid: 71d5bf791b008a943a7271c9dcb5b923, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 856a93baf5a132f42826a44abfedc66e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 856a93baf5a132f42826a44abfedc66e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 56c41e97845712449a1d29fc383ed24d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b638b4d4a41c704498c11b43dd03c62f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3d66d03bfd41840459ce4f4164d26860, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21342e15261dd9042b05ba73fe323a22, type: 2}

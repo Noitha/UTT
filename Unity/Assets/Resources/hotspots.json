@@ -1,0 +1,75 @@
+{"hotspots":[
+	{
+	"latitude": 49.4942551,
+	"longitude": 5.9835791,
+	"hotspotName":"Gardens",
+	"hotspotTextForLockedButton":"Gardens.\nLocked button.",
+	"hotspotTextForUnlockedButton":"Gardens.\nUnlocked button.",
+	"hotspotTextForLockedScreen":"Gardens<br>Locked screen\nLocked screen<br>Gardens",
+	"hotspotTextForUnlockedScreen":"Gardens<br>Unlocked screen\nUnlocked screen<br>Gardens",
+	 "hotspotTextMansfeldDialog":"Gardens Mansfeld\nMansfeld Gardens"
+	},{
+	"latitude": 2.000000,
+	"longitude": 2.000000,
+	"hotspotName":"Second Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog\nJust Testing\nIf this works"
+	},{
+	"latitude": 3.000000,
+	"longitude": 3.000000,
+	"hotspotName":"Third Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button\nJust conitnuing testing if this works\ntesting this testing that, adding some bugs",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog"
+	},{
+	"latitude": 4.000000,
+	"longitude": 4.000000,
+	"hotspotName":"Fourth Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog"
+	},{
+	"latitude": 5.000000,
+	"longitude": 5.000000,
+	"hotspotName":"Fifth Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog"
+	},{
+	"latitude": 6.000000,
+	"longitude": 6.000000,
+	"hotspotName":"Sixth Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog"
+	},{
+	"latitude": 7.000000,
+	"longitude": 7.000000,
+	"hotspotName":"Seventh Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog"
+	},{
+	"latitude": 8.000000,
+	"longitude": 8.000000,
+	"hotspotName":"Eight Hotspot",
+	"hotspotTextForLockedButton":"this is text for the locked button",
+	"hotspotTextForUnlockedButton":"This is text for the unlocked button",
+	"hotspotTextForLockedScreen":"This is text for the locked screen",
+	"hotspotTextForUnlockedScreen":"This is text for the unlocked screen",
+	"hotspotTextMansfeldDialog":"This is mansfeld dialog"
+	}
+]}
